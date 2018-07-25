@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BacooTang/huya-danmu.git"
+    "url": "git+https://github.com/yrwdai/huyaDanmu"
   },
   "keywords": [
     "huya",
@@ -16,9 +16,6 @@
   ],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BacooTang/huya-danmu/issues"
-  },
   "dependencies": {
     "huya-danmu": "^2.0.3",
     "md5": "^2.2.1",
@@ -27,6 +24,5 @@
     "socks-proxy-agent": "^3.0.1",
     "to-arraybuffer": "^1.0.1",
     "ws": "^4.0.0"
-  },
-  "homepage": "https://github.com/BacooTang/huya-danmu#readme"
+  }
 }
