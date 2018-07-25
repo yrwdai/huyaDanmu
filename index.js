@@ -92,7 +92,7 @@ class huya_danmu extends events {
         })
         this._emitter.on("6210", msg => {
             const msg_obj = {
-                type: 'vipnum',
+                type: 'vip',
                 time: new Date().getTime(),
                 count: msg.iTotal
             }
